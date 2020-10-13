@@ -15,7 +15,7 @@
 		<nba.version>2.21</nba.version>
 		<jackson.version>2.9.7</jackson.version>
 		<rdf4j.version>2.4.2</rdf4j.version>
-		<junit.version>4.12</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<apache.httpclient.version>4.5.5</apache.httpclient.version>
 	</properties>
 
